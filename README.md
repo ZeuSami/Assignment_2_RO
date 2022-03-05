@@ -1,7 +1,5 @@
 # Assignment_2_RO
-GTID: szhu72
-
-CS 7641 Project 1
+Project 2
 
 To run the code, you will need the following packages in addition to Python 3.7+:
 
